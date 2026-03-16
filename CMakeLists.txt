@@ -16,7 +16,7 @@
 #----------------------------------------------------------------------------------------------------------------------
 
 # Set required CMake version
-cmake_minimum_required(VERSION 3.16)
+cmake_minimum_required(VERSION 3.5)
 
 # Set project details
 project(XMidiCtrl VERSION 1.14 DESCRIPTION "MIDI Controller Plugin for X-Plane 11/12")
